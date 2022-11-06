@@ -20,7 +20,3 @@ I don't have any work experience in programming.
 1. RedwoodJS (Beginner)
 1. SvelteKit (Beginner)
 1. NextJS (Beginner)
-
-#### Contact
-
-Discord: Plaikrub#5406

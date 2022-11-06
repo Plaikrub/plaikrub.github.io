@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header .project-tagline {
+  margin-bottom: 0.5rem;
+}
+
+.page-header .contact {
+  font-size: 1.25rem;
+  font-weight: normal;
+  opacity: 0.85;
+}
