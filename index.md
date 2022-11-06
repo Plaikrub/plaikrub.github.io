@@ -1,4 +1,4 @@
-## Hello, My name is Artsada Choichueadee
+## Hi, My name is Artsada Choichueadee
 
 I'm interested in software programming and microcontrollers.
 I don't have any work experience in programming.
