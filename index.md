@@ -13,6 +13,14 @@ I don't have any work experience in programming.
 1. Rust (Beginner)
 1. ASM (Beginner)
 
+#### My experience in web framework
+
+1. Laravel (Intermediate)
+1. Django (Intermediate)
+1. RedwoodJS (Beginner)
+1. SvelteKit (Beginner)
+1. NextJS (Beginner)
+
 #### Contact
 
 Discord: Plaikrub#5406
