@@ -15,8 +15,7 @@ I don't have any work experience in programming.
 
 #### My experience in web framework
 
+- SvelteKit (Intermediate)
 - Laravel (Intermediate)
+- FastAPI (Intermediate)
 - Django (Intermediate)
-- RedwoodJS (Beginner)
-- SvelteKit (Beginner)
-- NextJS (Beginner)
